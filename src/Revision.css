@@ -1,0 +1,62 @@
+.dot {
+    height: 35px;
+    width: 35px;
+    line-height: 35px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.round-btn {
+    border-radius: 50% !important;
+}
+
+.encours {
+    background-color: #F4B740;
+}
+
+.success {
+    background-color: #00966D;
+}
+
+.error {
+    background-color: #C30052;
+}
+
+.waiting {
+    background-color: #D9DBE9;
+}
+
+.textadeviner {
+    border-radius: 10%;
+    border-color: black;
+    height: 200px;
+    width: 200px;
+    line-height: 200px;
+    text-align: center;
+    border-width: 2px;
+    border-style: solid;
+    font-size: 90px;
+    font-weight: 500;
+}
+
+table {
+    border-spacing: 0;
+    border: 1px solid black;
+}
+th,
+td {
+    margin: 0;
+    padding: 0.5rem;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+}
+  
+.caseSelected {
+    background-color: #1CC8EE;
+}
+
+.tableauReponse {
+    font-size: 25px !important;
+}

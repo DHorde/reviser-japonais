@@ -1,0 +1,8 @@
+.align-middle {
+    display: flex;
+    align-items: center;
+}
+
+.dropDownListGroupInput {
+    width: auto !important;
+}
